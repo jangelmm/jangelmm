@@ -106,7 +106,7 @@
 
 <h2 align="center">🤝 CONÉCTATE CONMIGO 🤝</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jangelmm/" target="_blank">
+  <a href="https://www.linkedin.com/in/jangelmm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn JAngel" style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:jesusangelmartinezmendoza0702@gmail.com" target="_blank">
